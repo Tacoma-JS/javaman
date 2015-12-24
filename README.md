@@ -8,7 +8,17 @@ Currently no easter eggs...and pretty random
 
 Requires [Node.js](https://nodejs.org/) and [Grunt CLI](http://gruntjs.com/using-the-cli) to build
 
-download and run npm install
+confirm npm is installed:
+
+```
+npm -v
+```
+
+and run npm in the same directory as package.json:
+
+```
+npm install
+```
 
 To build:
 
