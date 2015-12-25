@@ -1,7 +1,7 @@
 # javaman
 A multi-player find-the-easter-egg style game
 
-[ ![Codeship Status for rkamradt/MIDIExchange](https://www.codeship.io/projects/1b298ee0-b566-0131-9539-2ea5d9165023/status?branch=master)](https://www.codeship.io/projects/70120) [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
+[ ![Codeship Status for Tacoma-JS/javaman](https://codeship.com/projects/11ecd3b0-8cc9-0133-eb9e-0e58ff6a1668/status?branch=master)](https://codeship.com/projects/123975) [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
 
 Currently no easter eggs...and pretty random
 
